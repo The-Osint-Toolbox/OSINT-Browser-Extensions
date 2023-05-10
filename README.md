@@ -4,6 +4,20 @@
 <br></br>
 <table>
     <tr>
+        <td>Image OSINT</td>
+    </tr>
+</table>
+<ul>
+    <li><a href="https://chrome.google.com/webstore/detail/exif-viewer-pro/mmbhfeiddhndihdjeganjggkmjapkffm">EXIF Viewer Pro</a></li>
+     <p>Quick access to EXIF data of any image you view in Google Chrome.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/exify/llhmhhnpmiikplpnkmbgbgmlenleecle">Exify</a></li> 
+     <p>Show EXIF info by hovering the mouse over a photo.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe">InVID & WeVerify</a></li> 
+     <p>This plugin has been designed as a verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders.</p>
+</ul>
+<br></br>
+<table>
+    <tr>
         <td>Obfuscation, OPSEC & Privacy</td>
     </tr>
 </table>
