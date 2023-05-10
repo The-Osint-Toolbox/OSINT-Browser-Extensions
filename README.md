@@ -1,7 +1,7 @@
 # OSINT-Browser-Extensions
 <p>The browser extension listed on this page are available on Chrome Web Store. You may not find all the extension available on Firefox.</p>
 <p>Ensure that you are happy with what each extension does and the privacy & OPSEC implications.</p>
-
+<br></br>
 <table>
     <tr>
         <td>Obfuscation</td>
