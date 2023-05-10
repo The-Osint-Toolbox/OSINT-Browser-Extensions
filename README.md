@@ -1,6 +1,6 @@
 # OSINT-Browser-Extensions
 <p>The browser extension listed on this page are available on Chrome Web Store. You may not find all the extension available on Firefox.</p>
-<p>Ensure that you are happy with what each extension does and the privacy & OPSEC implications. These extensions are not recommendations and other extensionsare available that will do similar tasks.</p>
+<p>Ensure that you are happy with what each extension does and the privacy & OPSEC implications. These extensions are not recommendations and other extensions are available that will do similar tasks.</p>
 <br></br>
 <table>
     <tr>
@@ -41,5 +41,7 @@
 </table>
 <ul>
     <li><a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn">BuiltWith Technology Profiler</a></li>
-    <p>Find out what the website you are visiting is built with using this extension.</p>
+     <p>Find out what the website you are visiting is built with using this extension.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/country-flags-ip-whois/bffjckjhidlcnenenacdahhpbacpgapo">Country Flags</a></li>
+     <p>Displays country flag of website's server location, Whois and Geo info</p>
 </ul>
