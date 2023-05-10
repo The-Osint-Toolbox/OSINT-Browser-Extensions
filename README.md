@@ -46,4 +46,6 @@
      <p>Find out what the website you are visiting is built with using this extension.</p>
     <li><a href="https://chrome.google.com/webstore/detail/country-flags-ip-whois/bffjckjhidlcnenenacdahhpbacpgapo">Country Flags</a></li>
      <p>Displays country flag of website's server location, Whois and Geo info</p>
+    <li><a href="https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge">Distill Web Monitor</a></li> 
+     <p>Monitor webpage or feed for changes. Get SMS and email alerts on change detection.</p>
 </ul>
