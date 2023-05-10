@@ -1,6 +1,6 @@
 # OSINT-Browser-Extensions
 <p>The browser extension listed on this page are available on Chrome Web Store. You may not find all the extension available on Firefox.</p>
-<p>Ensure that you are happy with what each extension does and the privacy & OPSEC implications.</p>
+<p>Ensure that you are happy with what each extension does and the privacy & OPSEC implications. These extensions are not recommendations and other extensionsare available that will do similar tasks.</p>
 <br></br>
 <table>
     <tr>
@@ -17,6 +17,17 @@
     <li><a href="https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk">Clear URLS</a></li> 
      <p>This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.</p>
 </ul>
+<br></br>
+<table>
+    <tr>
+        <td>OCR</td>
+    </tr>
+</table>
+<ul>
+    <li><a href="https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj">Copyfish</a></li>
+     <p>Copy, paste and translate text from any image, video or PDF</p>
+</ul>
+<br></br>
 <table>
     <tr>
         <td>Social Media OSINT</td>
