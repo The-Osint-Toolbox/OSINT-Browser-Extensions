@@ -12,6 +12,8 @@
      <p>Quick access to EXIF data of any image you view in Google Chrome.</p>
     <li><a href="https://chrome.google.com/webstore/detail/exify/llhmhhnpmiikplpnkmbgbgmlenleecle">Exify</a></li> 
      <p>Show EXIF info by hovering the mouse over a photo.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc">Fake Profile Detector</a></li> 
+     <p>Right-click on a profile picture, our model will detect if that image contains a GAN generated or real person.</p>
     <li><a href="https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe">InVID & WeVerify</a></li> 
      <p>This plugin has been designed as a verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders.</p>
 </ul>
@@ -54,7 +56,7 @@
      <p>Find, choose and download images you need from any web pages or select all to bulk image download.</p>
     <li><a href="https://chrome.google.com/webstore/detail/email-extract/ejecpjcajdpbjbmlcojcohgenjngflac">Email Extract</a></li>
      <p>Email Extract extension searches email addresses on pages you visit</p>
-    <li><a href="https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc"></a>Email Extractor</li> 
+    <li><a href="https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc">Email Extractor</a></li> 
      <p>Email Extractor is a powerful email extraction extension for Chrome. Extension automatically fetches valid email IDs from the web page.</p>
     <li><a href="https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf">Video Downloader Plus</a></li> 
      <p>Download videos from a website, including Facebook, Instagram, Twitter & Vimeo.</p>
