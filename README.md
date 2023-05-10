@@ -4,7 +4,7 @@
 <br></br>
 <table>
     <tr>
-        <td>Obfuscation</td>
+        <td>Obfuscation, OPSEC & Privacy</td>
     </tr>
 </table>
 <ul>
@@ -16,6 +16,8 @@
      <p>Generate random web browsing traffic to obfuscate actual browsing behavior to avoid profiling through 3rd party observation.</p>
     <li><a href="https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk">Clear URLS</a></li> 
      <p>This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.</p>
+     <li><a href="https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj">Decentraleyes</a></li> 
+      <p>Protects you against tracking through "free", centralized, content delivery.</p>
 </ul>
 <br></br>
 <table>
