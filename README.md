@@ -4,6 +4,16 @@
 <br></br>
 <table>
     <tr>
+        <td>AI</td>
+    </tr>
+</table>
+<ul>
+    <li><a href="https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj">Copyfish</a></li>
+     <p>Copy, paste and translate text from any image, video or PDF</p>
+</ul>
+<br></br>
+<table>
+    <tr>
         <td>Image OSINT</td>
     </tr>
 </table>
@@ -34,16 +44,6 @@
      <p>This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.</p>
     <li><a href="https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj">Decentraleyes</a></li> 
      <p>Protects you against tracking through "free", centralized, content delivery.</p>
-</ul>
-<br></br>
-<table>
-    <tr>
-        <td>OCR</td>
-    </tr>
-</table>
-<ul>
-    <li><a href="https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj">Copyfish</a></li>
-     <p>Copy, paste and translate text from any image, video or PDF</p>
 </ul>
 <br></br>
 <table>
