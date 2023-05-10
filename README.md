@@ -16,8 +16,8 @@
      <p>Generate random web browsing traffic to obfuscate actual browsing behavior to avoid profiling through 3rd party observation.</p>
     <li><a href="https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk">Clear URLS</a></li> 
      <p>This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.</p>
-     <li><a href="https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj">Decentraleyes</a></li> 
-      <p>Protects you against tracking through "free", centralized, content delivery.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj">Decentraleyes</a></li> 
+     <p>Protects you against tracking through "free", centralized, content delivery.</p>
 </ul>
 <br></br>
 <table>
@@ -38,9 +38,10 @@
 <ul>
     <li><a href="https://chrome.google.com/webstore/detail/image-downloader-save-pho/lbohagbplppjcpllnhdichjldhfgkicb">Image Downloader</a></li>
      <p>Find, choose and download images you need from any web pages or select all to bulk image download.</p>
-    <li><a href="https://chrome.google.com/webstore/detail/tagged-photo-exporter-for/cicalpgkgmacgnbnnkhdgpnicipnihgo">Tagged Photo Exporter for Facebook
-    </a></li>
-     <p>Export all Facebook photos that you (or your friends) are tagged in..</p>
+    <li><a href="https://chrome.google.com/webstore/detail/email-extract/ejecpjcajdpbjbmlcojcohgenjngflac">Email Extract</a></li>
+     <p>Email Extract extension searches email addresses on pages you visit</p>
+    <li><a href="https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf">Video Downloader Plus</a></li> 
+     <p>Download videos from a website, including Facebook, Instagram, Twitter & Vimeo.</p>
 </ul>
 <br></br>
 <table>
