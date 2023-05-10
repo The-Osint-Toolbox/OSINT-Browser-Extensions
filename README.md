@@ -55,7 +55,7 @@
     <li><a href="https://chrome.google.com/webstore/detail/image-downloader-save-pho/lbohagbplppjcpllnhdichjldhfgkicb">Image Downloader</a></li>
      <p>Find, choose and download images you need from any web pages or select all to bulk image download.</p>
     <li><a href="https://chrome.google.com/webstore/detail/email-extract/ejecpjcajdpbjbmlcojcohgenjngflac">Email Extract</a></li>
-     <p>Email Extract extension searches email addresses on pages you visit</p>
+     <p>Email Extract extension searches email addresses on pages you visit.</p>
     <li><a href="https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc">Email Extractor</a></li> 
      <p>Email Extractor is a powerful email extraction extension for Chrome. Extension automatically fetches valid email IDs from the web page.</p>
     <li><a href="https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf">Video Downloader Plus</a></li> 
@@ -71,7 +71,9 @@
     <li><a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn">BuiltWith Technology Profiler</a></li>
      <p>Find out what the website you are visiting is built with using this extension.</p>
     <li><a href="https://chrome.google.com/webstore/detail/country-flags-ip-whois/bffjckjhidlcnenenacdahhpbacpgapo">Country Flags</a></li>
-     <p>Displays country flag of website's server location, Whois and Geo info</p>
+     <p>Displays country flag of website's server location, Whois and Geo info.</p>
     <li><a href="https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge">Distill Web Monitor</a></li> 
      <p>Monitor webpage or feed for changes. Get SMS and email alerts on change detection.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej">Google Similar Pages</a></li> 
+     <p>Discover webpages similar to the page you're currently browsing.</p> 
 </ul>
