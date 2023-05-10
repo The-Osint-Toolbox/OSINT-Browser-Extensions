@@ -35,6 +35,13 @@
         <td>Social Media OSINT</td>
     </tr>
 </table>
+<ul>
+    <li><a href="https://chrome.google.com/webstore/detail/image-downloader-save-pho/lbohagbplppjcpllnhdichjldhfgkicb">Image Downloader</a></li>
+     <p>Find, choose and download images you need from any web pages or select all to bulk image download.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/tagged-photo-exporter-for/cicalpgkgmacgnbnnkhdgpnicipnihgo">Tagged Photo Exporter for Facebook
+    </a></li>
+     <p>Export all Facebook photos that you (or your friends) are tagged in..</p>
+</ul>
 <br></br>
 <table>
     <tr>
