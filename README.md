@@ -2,7 +2,7 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
-<p>The browser extension listed on this page are available on Chrome Web Store. You may not find all the extension available on Firefox.</p>
+<p>The browser extensions listed on this page are available on Chrome Web Store. You may not find all the extension available on Firefox.</p>
 <p>Ensure that you are happy with what each extension does and the privacy & OPSEC implications. These extensions are not recommendations and other extensions are available that will do similar tasks.</p>
 <br></br>
 <table>
@@ -17,6 +17,8 @@
      <p>Copy, paste and translate text from any image, video or PDF</p>
     <li><a href="https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb">Google Translate</a></li> 
      <p>View translations easily as you browse the web. Highlight or right-click on a section of text and click on Translate icon.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf">Project Naptha</a></li> 
+     <p>Highlight, copy, edit, and translate text from any image on the web.</p>
 </ul>
 <br></br>
 <table>
