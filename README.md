@@ -1,4 +1,7 @@
 # OSINT-Browser-Extensions
+<p align="center">
+  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+</p>
 <p>The browser extension listed on this page are available on Chrome Web Store. You may not find all the extension available on Firefox.</p>
 <p>Ensure that you are happy with what each extension does and the privacy & OPSEC implications. These extensions are not recommendations and other extensions are available that will do similar tasks.</p>
 <br></br>
