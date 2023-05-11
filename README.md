@@ -80,4 +80,6 @@
      <p>Monitor webpage or feed for changes. Get SMS and email alerts on change detection.</p>
     <li><a href="https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej">Google Similar Pages</a></li> 
      <p>Discover webpages similar to the page you're currently browsing.</p> 
+    <li><a href="https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak">Wayback Machine</a></li>
+     <p>Welcome to the Official Internet Archive Wayback Machine Browser Extension! Go back in time to see how a website has changed through the history of the Web.</p> 
 </ul>
