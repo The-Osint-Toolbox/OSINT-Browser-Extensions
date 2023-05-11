@@ -53,6 +53,8 @@
      <p>Protects you against tracking through "free", centralized, content delivery.</p>
     <li><a href="https://chrome.google.com/webstore/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia">Location Guard</a></li> 
      <p>Hide your geographic location from websites.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia">Netcraft Extension</a></li> 
+     <p>Comprehensive site information and protection from phishing and malicious JavaScript when browsing the web.</p>
 </ul>
 <br></br>
 <table>
