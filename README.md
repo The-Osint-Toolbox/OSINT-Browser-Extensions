@@ -97,6 +97,8 @@
      <p>Extracts all links from web page, sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems.</p>
     <li><a href="https://chrome.google.com/webstore/detail/openlink-structured-data/egdaiaihbdoiibopledjahjaihbmjhdj">OpenLink Structured Data Sniffer</a></li> 
      <p>Reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/page-monitor/ogeebjpdeabhncjpfhgdibjajcajepgg">Page Monitor</a></li> 
+     <p>Stays in the background and monitors web pages for changes.</p>      
     <li><a href="https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak">Wayback Machine</a></li>
      <p>Welcome to the Official Internet Archive Wayback Machine Browser Extension! Go back in time to see how a website has changed through the history of the Web.</p> 
 </ul>
