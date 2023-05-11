@@ -8,8 +8,8 @@
     </tr>
 </table>
 <ul>
-    <li><a href="https://chrome.google.com/webstore/detail/chatgpt-for-google-no-ads/elnanopkpogbhmgppdoapkjlfigecncf">ChatGPT for Google</a></li>
-     <p>This is an extension that show response from ChatGPT alongside Google, Bing, DuckDuckGo and other search engines.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/chatgpt-assistant-smart-s/opngpmnmajecahkfibkbdkfckibnpajd">ChatGPT Assistant</a></li>
+     <p>Integrate OpenAI ChatGPT into your search engine! Access ChatGPT on any website using the Chat GPT helper function.</p>
     <li><a href="https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj">Copyfish</a></li>
      <p>Copy, paste and translate text from any image, video or PDF</p>
     <li><a href="https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb">Google Translate</a></li> 
