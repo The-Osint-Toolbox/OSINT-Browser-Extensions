@@ -55,6 +55,8 @@
      <p>Hide your geographic location from websites.</p>
     <li><a href="https://chrome.google.com/webstore/detail/netcraft-extension/bmejphbfclcpmpohkggcjeibfilpamia">Netcraft Extension</a></li> 
      <p>Comprehensive site information and protection from phishing and malicious JavaScript when browsing the web.</p>
+     <li><a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp">Privacy Badger</a></li> 
+     <p>Privacy Badger automatically learns to block invisible trackers.</p> 
 </ul>
 <br></br>
 <table>
