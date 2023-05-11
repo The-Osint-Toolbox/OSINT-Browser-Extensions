@@ -48,6 +48,8 @@
      <p>This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet.</p>
     <li><a href="https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj">Decentraleyes</a></li> 
      <p>Protects you against tracking through "free", centralized, content delivery.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/location-guard/cfohepagpmnodfdmjliccbbigdkfcgia">Location Guard</a></li> 
+     <p>Hide your geographic location from websites.</p>
 </ul>
 <br></br>
 <table>
