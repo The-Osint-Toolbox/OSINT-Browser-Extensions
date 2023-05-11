@@ -10,6 +10,8 @@
 <ul>
     <li><a href="https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj">Copyfish</a></li>
      <p>Copy, paste and translate text from any image, video or PDF</p>
+    <li><a href="https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb">Google Translate</a></li> 
+     <p>View translations easily as you browse the web. Highlight or right-click on a section of text and click on Translate icon.</p>
 </ul>
 <br></br>
 <table>
