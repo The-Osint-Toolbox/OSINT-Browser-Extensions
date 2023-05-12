@@ -69,6 +69,8 @@
      <p>Privacy Badger automatically learns to block invisible trackers.</p> 
     <li><a href="https://chrome.google.com/webstore/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg">Terms of Service; Didn’t Read</a></li>  
      <p>Get information instantly about websites' terms of service and privacy policies, with ratings and summaries.</p>   
+    <li><a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin</a></li> 
+     <p>uBlock Origin is a wide-spectrum content blocker.</p>
 </ul>
 <br></br>
 <table>
