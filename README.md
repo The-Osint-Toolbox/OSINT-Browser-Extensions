@@ -67,6 +67,8 @@
      <p>Comprehensive site information and protection from phishing and malicious JavaScript when browsing the web.</p>
      <li><a href="https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp">Privacy Badger</a></li> 
      <p>Privacy Badger automatically learns to block invisible trackers.</p> 
+    <li><a href="https://chrome.google.com/webstore/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg">Terms of Service; Didn’t Read</a></li>  
+     <p>Get information instantly about websites' terms of service and privacy policies, with ratings and summaries.</p>   
 </ul>
 <br></br>
 <table>
