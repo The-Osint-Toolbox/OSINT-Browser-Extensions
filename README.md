@@ -103,6 +103,8 @@
      <p>Reveals structured metadata (Microdata, RDFa, JSON-LD, Turtle, etc.) embedded within HTML documents.</p>
     <li><a href="https://chrome.google.com/webstore/detail/page-monitor/ogeebjpdeabhncjpfhgdibjajcajepgg">Page Monitor</a></li> 
      <p>Stays in the background and monitors web pages for changes.</p>      
+    <li><a href="https://chrome.google.com/webstore/detail/pulsedive-threat-intellig/gdbemlfgncdmmljmkkcemfedbbfgghcp">Pulsedive Threat Intelligence</a></li> 
+     <p>Highlight IPs, domains, and URLs on any website to enrich them using Pulsedive's free threat intelligence data set.</p>  
     <li><a href="https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak">Wayback Machine</a></li>
      <p>Welcome to the Official Internet Archive Wayback Machine Browser Extension! Go back in time to see how a website has changed through the history of the Web.</p> 
 </ul>
