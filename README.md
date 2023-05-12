@@ -35,6 +35,8 @@
      <p>Right-click on a profile picture, our model will detect if that image contains a GAN generated or real person.</p>
     <li><a href="https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe">InVID & WeVerify</a></li> 
      <p>This plugin has been designed as a verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf">RevEye Reverse Image Search</a></li>
+     <p>Perform a search by image. Choose between the image search engines Google, Bing, Yandex, and TinEye.</p>
 </ul>
 <br></br>
 <table>
@@ -105,6 +107,8 @@
      <p>Stays in the background and monitors web pages for changes.</p>      
     <li><a href="https://chrome.google.com/webstore/detail/pulsedive-threat-intellig/gdbemlfgncdmmljmkkcemfedbbfgghcp">Pulsedive Threat Intelligence</a></li> 
      <p>Highlight IPs, domains, and URLs on any website to enrich them using Pulsedive's free threat intelligence data set.</p>  
+    <li><a href="https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof">Save Page WE</a></li> 
+     <p>Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.</p>
     <li><a href="https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak">Wayback Machine</a></li>
      <p>Welcome to the Official Internet Archive Wayback Machine Browser Extension! Go back in time to see how a website has changed through the history of the Web.</p> 
 </ul>
