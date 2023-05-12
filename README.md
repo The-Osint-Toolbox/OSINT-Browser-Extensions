@@ -119,6 +119,8 @@
      <p>Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.</p>
     <li><a href="https://chrome.google.com/webstore/detail/simple-search/bbpcngjcblhpkhadnbhgdjhmidojegha">Simple Search</a></li> 
      <p>Simple Search doesn’t modify the search page, it just adds a new view on top, showing just those “traditional” search result.</p>   
+    <li><a href="https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke">ThreatPinch Lookup</a></li> 
+     <p>The infosec threat and OSINT swiss army knife for your browser. Investigate less by taking your context with you.</p>
     <li><a href="https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak">Wayback Machine</a></li>
      <p>Welcome to the Official Internet Archive Wayback Machine Browser Extension! Go back in time to see how a website has changed through the history of the Web.</p> 
 </ul>
