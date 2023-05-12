@@ -21,6 +21,8 @@
      <p>Highlight, copy, edit, and translate text from any image on the web.</p>
     <li><a href="https://chrome.google.com/webstore/detail/simple-search/bbpcngjcblhpkhadnbhgdjhmidojegha">Simple Search</a></li> 
      <p>Simple Search doesn’t modify the search page, it just adds a new view on top, showing just those “traditional” search result.</p>  
+    <li><a href="https://chrome.google.com/webstore/detail/youcom-search-chat-and-cr/fhplnehgjpmohhldfnjhibanpbiedofi">You.com</a></li> 
+     <p>Experience the future of search with generative AI.</p>
 </ul>
 <br></br>
 <table>
