@@ -37,6 +37,8 @@
      <p>This plugin has been designed as a verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders.</p>
     <li><a href="https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf">RevEye Reverse Image Search</a></li>
      <p>Perform a search by image. Choose between the image search engines Google, Bing, Yandex, and TinEye.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk">Screenshot YouTube</a></li> 
+     <p>Adds a “Screenshot” button to the YouTube video player which saves a screenshot of the currently playing video as a file.</p>
 </ul>
 <br></br>
 <table>
