@@ -19,6 +19,8 @@
      <p>View translations easily as you browse the web. Highlight or right-click on a section of text and click on Translate icon.</p>
     <li><a href="https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf">Project Naptha</a></li> 
      <p>Highlight, copy, edit, and translate text from any image on the web.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/simple-search/bbpcngjcblhpkhadnbhgdjhmidojegha">Simple Search</a></li> 
+     <p>Simple Search doesn’t modify the search page, it just adds a new view on top, showing just those “traditional” search result.</p>  
 </ul>
 <br></br>
 <table>
@@ -39,6 +41,8 @@
      <p>Perform a search by image. Choose between the image search engines Google, Bing, Yandex, and TinEye.</p>
     <li><a href="https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk">Screenshot YouTube</a></li> 
      <p>Adds a “Screenshot” button to the YouTube video player which saves a screenshot of the currently playing video as a file.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci">Search by Image</a></li> 
+     <p>Reverse image search tool, with support for various search engines, such as Google, Bing, Yandex, Baidu and TinEye.</p>
 </ul>
 <br></br>
 <table>
@@ -111,6 +115,8 @@
      <p>Highlight IPs, domains, and URLs on any website to enrich them using Pulsedive's free threat intelligence data set.</p>  
     <li><a href="https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof">Save Page WE</a></li> 
      <p>Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/simple-search/bbpcngjcblhpkhadnbhgdjhmidojegha">Simple Search</a></li> 
+     <p>Simple Search doesn’t modify the search page, it just adds a new view on top, showing just those “traditional” search result.</p>   
     <li><a href="https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak">Wayback Machine</a></li>
      <p>Welcome to the Official Internet Archive Wayback Machine Browser Extension! Go back in time to see how a website has changed through the history of the Web.</p> 
 </ul>
