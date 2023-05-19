@@ -23,6 +23,8 @@
      <p>Simple Search doesn’t modify the search page, it just adds a new view on top, showing just those “traditional” search result.</p>  
     <li><a href="https://chrome.google.com/webstore/detail/youcom-search-chat-and-cr/fhplnehgjpmohhldfnjhibanpbiedofi">You.com</a></li> 
      <p>Experience the future of search with generative AI.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli">Glasp</a></li>
+     <p>YouTube & Article Summary powered by ChatGPT.</p>
 </ul>
 <br></br>
 <table>
