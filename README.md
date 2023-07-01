@@ -41,6 +41,8 @@
      <p>Right-click on a profile picture, our model will detect if that image contains a GAN generated or real person.</p>
     <li><a href="https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe">InVID & WeVerify</a></li> 
      <p>This plugin has been designed as a verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd">PhotOSINT</a></li> 
+     <p>OSINT tool for images. Scans page for images with EXIF metadata, while browsing.</p>
     <li><a href="https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf">RevEye Reverse Image Search</a></li>
      <p>Perform a search by image. Choose between the image search engines Google, Bing, Yandex, and TinEye.</p>
     <li><a href="https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk">Screenshot YouTube</a></li> 
