@@ -55,6 +55,8 @@
     </tr>
 </table>
 <ul>
+    <li><a href="https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe">DumpItBlue</a></li>
+     <p>DumpItBlue is a tool that helps to dump Facebook stuff for analysis or reporting purposes.</p>
     <li><a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn">BuiltWith Technology Profiler</a></li>
      <p>Find out what the website you are visiting is built with using this extension.</p>
     <li><a href="https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp">Canvas Fingerprint Defender</a></li> 
