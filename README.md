@@ -97,6 +97,8 @@
      <p>L.O.C is a collection of tools to help Facebook users with a downloading content and analysis.</p>
     <li><a href="https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf">Video Downloader Plus</a></li> 
      <p>Download videos from a website, including Facebook, Instagram, Twitter & Vimeo.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj">Return YouTube Comment Username</a></li>
+     <p>This extension will replace the "handle" in the video comments section, community comments section, and the comments section of the top notification with your old username.</p> 
 </ul>
 <br></br>
 <table>
