@@ -57,8 +57,6 @@
     </tr>
 </table>
 <ul>
-    <li><a href="https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe">DumpItBlue</a></li>
-     <p>DumpItBlue is a tool that helps to dump Facebook stuff for analysis or reporting purposes.</p>
     <li><a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn">BuiltWith Technology Profiler</a></li>
      <p>Find out what the website you are visiting is built with using this extension.</p>
     <li><a href="https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp">Canvas Fingerprint Defender</a></li> 
@@ -87,6 +85,8 @@
     </tr>
 </table>
 <ul>
+    <li><a href="https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe">DumpItBlue</a></li>
+     <p>DumpItBlue is a tool that helps to dump Facebook stuff for analysis or reporting purposes.</p>
     <li><a href="https://chrome.google.com/webstore/detail/image-downloader-save-pho/lbohagbplppjcpllnhdichjldhfgkicb">Image Downloader</a></li>
      <p>Find, choose and download images you need from any web pages or select all to bulk image download.</p>
     <li><a href="https://chrome.google.com/webstore/detail/email-extract/ejecpjcajdpbjbmlcojcohgenjngflac">Email Extract</a></li>
@@ -99,6 +99,7 @@
      <p>Download videos from a website, including Facebook, Instagram, Twitter & Vimeo.</p>
     <li><a href="https://chrome.google.com/webstore/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj">Return YouTube Comment Username</a></li>
      <p>This extension will replace the "handle" in the video comments section, community comments section, and the comments section of the top notification with your old username.</p> 
+    <li><a href="https://chrome.google.com/webstore/detail/vidiq-vision-for-youtube/pachckjkecffpdphbpmfolblodfkgbhl">vidIQ Vision for YouTube</a></li><p>YouTube analyser. Uncover the secrets to success behind your favorite YouTube videos.</p>
 </ul>
 <br></br>
 <table>
