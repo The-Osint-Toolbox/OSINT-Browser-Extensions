@@ -95,6 +95,8 @@
      <p>Email Extractor is a powerful email extraction extension for Chrome. Extension automatically fetches valid email IDs from the web page.</p>
     <li><a href="https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand">L.O.C</a></li> 
      <p>L.O.C is a collection of tools to help Facebook users with a downloading content and analysis.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/tiktok-downloader/ghhcamahihkbgfioeimocdmmiiejjnfe">TikTok Downloader</a></li> 
+     <p>This extension allows you to download TikTok videos without a watermark.</p>
     <li><a href="https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf">Video Downloader Plus</a></li> 
      <p>Download videos from a website, including Facebook, Instagram, Twitter & Vimeo.</p>
     <li><a href="https://chrome.google.com/webstore/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj">Return YouTube Comment Username</a></li>
