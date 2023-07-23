@@ -105,8 +105,11 @@
      <p>Email Extractor is a powerful email extraction extension for Chrome. Extension automatically fetches valid email IDs from the web page.</p>
     <li><a href="https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand">L.O.C</a></li> 
      <p>L.O.C is a collection of tools to help Facebook users with a downloading content and analysis.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/picuki-switch/elmbjjhgiifenlhffpjcjfkjmilbbfki">Picuki Switcher</a></li>
+     <p>Redirects Instagram URL profile to Picuki.com, an Instagram viewer.</p>
     <li><a href="https://chrome.google.com/webstore/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj">Return YouTube Comment Username</a></li>
-     <p>This extension will replace the "handle" in the video comments section, community comments section, and the comments section of the top notification with your old username.</p>       <li><a href="https://chrome.google.com/webstore/detail/sort-for-tiktok/piiiffonpmeolocfghlpeolmdabhiemi?hl=nl">Sort For TikTok</a></li>
+     <p>This extension will replace the "handle" in the video comments section, community comments section, and the comments section of the top notification with your old username.</p>       
+    <li><a href="https://chrome.google.com/webstore/detail/sort-for-tiktok/piiiffonpmeolocfghlpeolmdabhiemi?hl=nl">Sort For TikTok</a></li>
      <p>Sort videos or TikTok users by the most viewed.</p> 
     <li><a href="https://chrome.google.com/webstore/detail/tiktok-downloader/ghhcamahihkbgfioeimocdmmiiejjnfe">TikTok Downloader</a></li> 
      <p>This extension allows you to download TikTok videos without a watermark.</p>
