@@ -28,6 +28,16 @@
 </ul>
 <br></br>
 <table>
+    <tr>
+        <td>Geolocation OSINT</td>
+    </tr>
+</table>
+<ul>
+    <li><a href="https://chrome.google.com/webstore/detail/map-switcher/fanpjcbgdinjeknjikpfnldfpnnpkelb">Map Switcher</a></li>
+     <p>Switch between different map services. Convert coordinates and directions and jump to the same location on another map.</p>
+</ul>
+<br></br>
+<table>
     <tr>
         <td>Image OSINT</td>
     </tr>
