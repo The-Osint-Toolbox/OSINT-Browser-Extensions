@@ -117,6 +117,8 @@
      <p>This extension allows you to download TikTok videos without a watermark.</p>
     <li><a href="https://chrome.google.com/webstore/detail/tt-downloader/blbckhiepgpniilpmlionnkjoeehhgao?hl=en-GB">TT Downloader</a></li> 
      <p>TikTok Downloader - Download single video or multiple downloads.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/old-twitter-layout-2023/jgejdcdoeeabklepnkdbglgccjpdgpmf">Old Twitter Layout (2023)</a></li>
+     <p>Extension to return old Twitter layout from 2015</p>
     <li><a href="https://chrome.google.com/webstore/detail/uniform-timezone-extensio/fhpdgikedeljapdckiegnjiendkhphlg">Uniform Timezone Extension</a></li>
      <p>Brings standardization to social media posts' dates and times.Converts and decodes, where possible, complete upload/post date-time values into standard timezones.</p>
     <li><a href="https://chrome.google.com/webstore/detail/video-downloader-plus/hkdmdpdhfaamhgaojpelccmeehpfljgf">Video Downloader Plus</a></li> 
