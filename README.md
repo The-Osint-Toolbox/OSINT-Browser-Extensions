@@ -113,6 +113,8 @@
      <p>This extension will replace the "handle" in the video comments section, community comments section, and the comments section of the top notification with your old username.</p>       
     <li><a href="https://chrome.google.com/webstore/detail/sort-for-tiktok/piiiffonpmeolocfghlpeolmdabhiemi?hl=nl">Sort For TikTok</a></li>
      <p>Sort videos or TikTok users by the most viewed.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/story-saver/mafcolokinicfdmlidhaebadidhdehpk/related?hl=en">Story Saver</a></li>
+     <p>Simply Download & Save stories from Facebook, Instagram, and WhatsApp.</p> 
     <li><a href="https://chrome.google.com/webstore/detail/tg-search-engine-tg-group/ilpgiemienkecbgdhdbgdjkafodgfojl/related">TG Search Engine</a></li>
      <p>You can find groups and channels by entering a keyword into this extension.</p>
     <li><a href="https://chrome.google.com/webstore/detail/tiknote-video-downloader/jilgamolkonoalagcpgjjijaclacillb">TikNote</a></li>
