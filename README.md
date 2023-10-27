@@ -109,6 +109,8 @@
      <p>L.O.C is a collection of tools to help Facebook users with a downloading content and analysis.</p>
     <li><a href="https://chrome.google.com/webstore/detail/picuki-switch/elmbjjhgiifenlhffpjcjfkjmilbbfki">Picuki Switcher</a></li>
      <p>Redirects Instagram URL profile to Picuki.com, an Instagram viewer.</p>
+    <li><a href="https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb">Reddit Enhancement Suite</a></li>
+     <p>A suite of modules that enhance your Reddit browsing experience.</p>    
     <li><a href="https://chrome.google.com/webstore/detail/return-youtube-comment-us/kamibelompadnaekbellinmgbphoidmj">Return YouTube Comment Username</a></li>
      <p>This extension will replace the "handle" in the video comments section, community comments section, and the comments section of the top notification with your old username.</p>       
     <li><a href="https://chrome.google.com/webstore/detail/sort-for-tiktok/piiiffonpmeolocfghlpeolmdabhiemi?hl=nl">Sort For TikTok</a></li>
