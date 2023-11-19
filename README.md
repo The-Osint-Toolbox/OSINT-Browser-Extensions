@@ -65,6 +65,16 @@
 <br></br>
 <table>
     <tr>
+        <td>Miscellaneous</td>
+    </tr>
+</table>
+<ul>
+  <li><a href="https://chromewebstore.google.com/detail/auto-scroll-search-scroll/ieceeinfkigfaeoomfimmecebngempef">Auto Scroll Search</a></li>
+     <p>Allows you to scroll infinite pages.</p>
+</ul>  
+<br></br>
+<table>
+    <tr>
         <td>Obfuscation, OPSEC & Privacy</td>
     </tr>
 </table>
