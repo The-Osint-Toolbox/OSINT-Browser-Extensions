@@ -158,6 +158,8 @@
      <p>Monitor webpage or feed for changes. Get SMS and email alerts on change detection.</p>
     <li><a href="https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej">Google Similar Pages</a></li> 
      <p>Discover webpages similar to the page you're currently browsing.</p> 
+    <li><a href="https://github.com/iamadamdev/bypass-paywalls-chrome">Iamadamdev</a></li> 
+     <p>Bypass Paywalls web browser extension for Chrome and Firefox. GitHub repo, other versions are available on the Chrome Store.</p>
     <li><a href="https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah">Instant Data Scraper</a></li> 
      <p>Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files.</p>
     <li><a href="https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj">Linkclump</a></li> 
