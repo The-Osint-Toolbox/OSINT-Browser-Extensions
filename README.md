@@ -1,6 +1,6 @@
 # OSINT-Browser-Extensions
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <p>The browser extensions listed on this page are available on Chrome Web Store. You may not find all the extension available on Firefox.</p>
 <p>Ensure that you are happy with what each extension does and the privacy & OPSEC implications. These extensions are not recommendations and other extensions are available that will do similar tasks.</p>
@@ -182,6 +182,8 @@
      <p>SingleFile is a browser extension designed to help users save web pages as complete, self-contained files.</p> 
     <li><a href="https://chrome.google.com/webstore/detail/tag-assistant-legacy-by-g/kejbdjndbnbjgmefkgdddjlbokphdefk">Tag Assistant</a></li> 
      <p>Tag Assistant helps to troubleshoot installation of various Google tags including Google Analytics, Google Tag Manager and more.</p>
+    <li><a href="https://chromewebstore.google.com/detail/teeto/jkonpljnfkapenfcfdhmilkbmnbalnml">Teeto</a></li>
+     <p>Identify endpoints, secrets, and parameters within a webpage.</p>
     <li><a href="https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke">ThreatPinch Lookup</a></li> 
      <p>The infosec threat and OSINT swiss army knife for your browser. Investigate less by taking your context with you.</p>
     <li><a href="Visualping is a simple service for monitoring websites for change">Visualping</a></li> 
