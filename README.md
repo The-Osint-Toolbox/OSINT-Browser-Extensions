@@ -158,6 +158,8 @@
      <p>Displays country flag of website's server location, Whois and Geo info.</p>
     <li><a href="https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge">Distill Web Monitor</a></li> 
      <p>Monitor webpage or feed for changes. Get SMS and email alerts on change detection.</p>
+    <li><a href="https://chromewebstore.google.com/detail/files-explorer/cmibdnmeihbjkdgnohgjeelkofcnfhid">Files-Explorer</a></li>
+     <p>Files explorer for the web accessible folders</p>
     <li><a href="https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej">Google Similar Pages</a></li> 
      <p>Discover webpages similar to the page you're currently browsing.</p> 
     <li><a href="https://github.com/iamadamdev/bypass-paywalls-chrome">Iamadamdev</a></li> 
