@@ -35,6 +35,8 @@
 <ul>
     <li><a href="https://chrome.google.com/webstore/detail/map-switcher/fanpjcbgdinjeknjikpfnldfpnnpkelb">Map Switcher</a></li>
      <p>Switch between different map services. Convert coordinates and directions and jump to the same location on another map.</p>
+    <li><a href="https://chromewebstore.google.com/detail/bellingcat-filename-finde/fdhodjpkigpaachejkipcghppfnnfdmp">Bellingcat Filename Finder</a></li>
+     <p>Display filenames for images uploaded to Google Maps by users (in location photos, reviews, etc).</p>
 </ul>
 <br></br>
 <table>
