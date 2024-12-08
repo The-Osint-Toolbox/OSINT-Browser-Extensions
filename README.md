@@ -74,7 +74,9 @@
 </table>
 <ul>
   <li><a href="https://chromewebstore.google.com/detail/auto-scroll-search-scroll/ieceeinfkigfaeoomfimmecebngempef">Auto Scroll Search</a></li>
-     <p>Allows you to scroll infinite pages.</p>
+    <p>Allows you to scroll infinite pages.</p>
+  <li><a href="https://chromewebstore.google.com/detail/hiya-deepfake-voice-detec/akmieeldmgcllmokbpaibfelofjiilpc">Hiya</a></li>
+   <p>Deepfake Voice Detector</p>
 </ul>  
 <br></br>
 <table>
