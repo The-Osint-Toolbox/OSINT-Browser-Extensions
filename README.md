@@ -43,7 +43,7 @@
 <br></br>
 <table>
     <tr>
-        <td>Image OSINT</td>
+        <td>Image & Video OSINT</td>
     </tr>
 </table>
 <ul>
@@ -65,6 +65,8 @@
      <p>Adds a “Screenshot” button to the YouTube video player which saves a screenshot of the currently playing video as a file.</p>
     <li><a href="https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci">Search by Image</a></li> 
      <p>Reverse image search tool, with support for various search engines, such as Google, Bing, Yandex, Baidu and TinEye.</p>
+    <li><a href="https://chromewebstore.google.com/detail/youtube-word-searcher/jichoejagacnbcinlgncghhdegdlhbcj">YouTube Word Searcher</a></li> 
+     <p>An extension for searching for words in YouTube videos.</p>
 </ul>
 <br></br>
 <table>
