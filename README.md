@@ -53,6 +53,8 @@
      <p>Show EXIF info by hovering the mouse over a photo.</p>
     <li><a href="https://chrome.google.com/webstore/detail/fake-profile-detector-dee/jbpcgcnnhmjmajjkgdaogpgefbnokpcc">Fake Profile Detector</a></li> 
      <p>Right-click on a profile picture, our model will detect if that image contains a GAN generated or real person.</p>
+    <li><a href="https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn">Forensic OSINT Screen Capture</a></li> 
+     <p>Screen and Video Captures: Conduct user-controlled captures from platforms like YouTube, TikTok, and more.</p>
     <li><a href="https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe">InVID & WeVerify</a></li> 
      <p>This plugin has been designed as a verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders.</p>
     <li><a href="https://chrome.google.com/webstore/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf/">Perceptual Image Analysis</a></li>
