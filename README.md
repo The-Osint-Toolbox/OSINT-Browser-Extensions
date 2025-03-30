@@ -192,6 +192,8 @@
      <p>Simple Search doesn’t modify the search page, it just adds a new view on top, showing just those “traditional” search result.</p>
     <li><a href="https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle">SingleFile</a></li>
      <p>SingleFile is a browser extension designed to help users save web pages as complete, self-contained files.</p> 
+    <li><a href="https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd/related">Sputnik</a></li> 
+     <p>Sputnik is an extension to quickly and easily search IPs, Domains, File Hashes, and URLs using free Open Source Intelligence (OSINT) resources.</p>
     <li><a href="https://chrome.google.com/webstore/detail/tag-assistant-legacy-by-g/kejbdjndbnbjgmefkgdddjlbokphdefk">Tag Assistant</a></li> 
      <p>Tag Assistant helps to troubleshoot installation of various Google tags including Google Analytics, Google Tag Manager and more.</p>
     <li><a href="https://chromewebstore.google.com/detail/teeto/jkonpljnfkapenfcfdhmilkbmnbalnml">Teeto</a></li>
