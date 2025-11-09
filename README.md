@@ -164,7 +164,7 @@
     </tr>
 </table>
 <ul>
-    <li><a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn">BuiltWith Technology Profiler</a></li>
+    <li><a href="https://chromewebstore.google.com/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en">BuiltWith Technology Profiler</a></li>
      <p>Find out what the website you are visiting is built with using this extension.</p>
     <li><a href="https://chrome.google.com/webstore/detail/country-flags-ip-whois/bffjckjhidlcnenenacdahhpbacpgapo">Country Flags</a></li>
      <p>Displays country flag of website's server location, Whois and Geo info.</p>
