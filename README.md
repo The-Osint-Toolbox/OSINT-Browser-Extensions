@@ -91,8 +91,6 @@
     </tr>
 </table>
 <ul>
-    <li><a href="https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn">BuiltWith Technology Profiler</a></li>
-     <p>Find out what the website you are visiting is built with using this extension.</p>
     <li><a href="https://chrome.google.com/webstore/detail/canvas-fingerprint-defend/lanfdkkpgfjfdikkncbnojekcppdebfp">Canvas Fingerprint Defender</a></li> 
      <p>Defending against Canvas fingerprinting by reporting a fake value.</p>
     <li><a href="https://chrome.google.com/webstore/detail/chaff/jgjhamliocfhehbocekgcddfjpgdjnje">Chaff</a></li> 
