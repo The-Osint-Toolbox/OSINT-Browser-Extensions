@@ -57,6 +57,8 @@
      <p>Screen and Video Captures: Conduct user-controlled captures from platforms like YouTube, TikTok, and more.</p>
     <li><a href="https://chrome.google.com/webstore/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe">InVID & WeVerify</a></li> 
      <p>This plugin has been designed as a verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders.</p>
+    <li><a href="https://chromewebstore.google.com/detail/resemble-ai-deepfake-dete/ligejojghpehckjpfldljdcckgcbngle">Resemble AI Deepfake Detector</a></li>
+     <p>Scans web images, videos, and audio for AI-generated or manipulated media with verdicts and confidence scores.</p>
     <li><a href="https://chrome.google.com/webstore/detail/perceptual-image-analysis/gidmeabdffonnejjlkbglmppmfniakdf/">Perceptual Image Analysis</a></li>
      <p>Image forensics: testing images for presence of viewable irregularities.</p>
     <li><a href="https://chrome.google.com/webstore/detail/photosint/gonhdjmkgfkokhkflfhkbiagbmoolhcd">PhotOSINT</a></li> 
