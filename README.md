@@ -206,6 +206,8 @@
      <p>The infosec threat and OSINT swiss army knife for your browser. Investigate less by taking your context with you.</p>
     <li><a href="Visualping is a simple service for monitoring websites for change">Visualping</a></li> 
      <p>Visualping is a simple service for monitoring websites for changes.</p>
+    <li><a href="https://chromewebstore.google.com/detail/vpndetection-ip-address-l/kfljannoobgfmbcjobeionephndlnhgi">VPNDetection: IP address lookup</a></li>
+     <p>Select an IP on any page to see if it's a VPN, proxy, Tor exit or hosting address.</p>
     <li><a href="https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak">Wayback Machine</a></li>
      <p>Welcome to the Official Internet Archive Wayback Machine Browser Extension! Go back in time to see how a website has changed through the history of the Web.</p> 
      <li><a href="https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao">Web Archives</a></li>
