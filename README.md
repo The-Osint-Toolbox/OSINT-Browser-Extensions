@@ -83,6 +83,8 @@
     <p>Allows you to scroll infinite pages.</p>
   <li><a href="https://chromewebstore.google.com/detail/copytables/ekdpkppgmlalfkphpibadldikjimijon">Copytables</a></li> 
      <p>Select table cells, rows and columns with your mouse or from a context menu. Copy as rich text, HTML, tab-delimited and CSV.</p>
+  <li><a href="https://chromewebstore.google.com/detail/table-to-excel-by-tidykit/nigijjipcfdonpdhpfjiblofcbilohng">Table to Excel by TidyKit</a></li>
+     <p>Copies HTML tables to spreadsheets or exports CSV and XLSX, with merged cells filled in. Table processing stays in the browser.</p>
   <li><a href="https://chromewebstore.google.com/detail/hiya-deepfake-voice-detec/akmieeldmgcllmokbpaibfelofjiilpc">Hiya</a></li>
    <p>Deepfake Voice Detector.</p>
 </ul>  
