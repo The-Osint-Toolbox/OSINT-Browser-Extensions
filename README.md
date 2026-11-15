@@ -25,6 +25,8 @@
      <p>Experience the future of search with generative AI.</p>
     <li><a href="https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli">Glasp</a></li>
      <p>YouTube & Article Summary powered by ChatGPT.</p>
+    <li><a href="https://chromewebstore.google.com/detail/youtube-transcript-ai-sum/bbappnicmjmiliipjcmciaffiglmoekd">YouTube Transcript: AI Summary & Chat</a></li>
+     <p>Opens a searchable, timestamped transcript panel beside any YouTube video, with copy and download, an AI summary and questions about the video.</p>
 </ul>
 <br></br>
 <table>
