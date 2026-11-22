@@ -184,6 +184,8 @@
      <p>Bypass Paywalls web browser extension for Chrome and Firefox. GitHub repo, other versions are available on the Chrome Store.</p>
     <li><a href="https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah">Instant Data Scraper</a></li> 
      <p>Instant Data Scraper extracts data from web pages and exports it as Excel or CSV files.</p>
+    <li><a href="https://chromewebstore.google.com/detail/internetdata-ip-address-l/gmhignbphnhicmfpcfnbcjebkjinjdel">InternetData: IP address lookup</a></li>
+     <p>Select an IP on any page to see where it is, whose network it's on and what runs there.</p>
     <li><a href="https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj">Linkclump</a></li> 
      <p>Lets you open, copy or bookmark multiple links at the same time.</p>
     <li><a href="https://chrome.google.com/webstore/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf">Link Gopher</a></li> 
